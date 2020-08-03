@@ -5,8 +5,8 @@ Source code of the winning solution based on Convolutional Neural Networks (CNNs
 ## Getting Started
 
 ### Prerequisites
-*PyTorch
-*NumPy
+* PyTorch
+* NumPy
 
 ### Usage
 The best-performing solution was based on an inter-session training strategy (i.e. developing participant-specific CNNs). 
