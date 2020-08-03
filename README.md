@@ -1,4 +1,4 @@
-# Winning solution proposed for the IFMBE 2019 Scientific Challenge
+# Convolutional Neural Network for a P300 Brain-Computer Interface to improve social attention in Autistic Spectrum Disorder
 
 Source code of the winning solution based on Convolutional Neural Networks (CNNs) proposed for the IFMBE 2019 Scientific Challenge of the 15th Mediterranean Conference on Medical and Biological Engineering and Computing.
 
